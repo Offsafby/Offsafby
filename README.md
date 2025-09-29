@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mikegf
+- 👋 Hi, I’m Michael wekhuyi 
 - 👀 I’m interested in learning AI
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on artificial intelligence 
